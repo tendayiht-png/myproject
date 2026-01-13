@@ -1,7 +1,7 @@
 #  My Project
 
 ## Description
-The Catalyst Inclusion website is a landing page for diversity and inclusion information for employees and jobseekers interested with working at Catalyst Inclusion. The Catalyst Inclusion website aims to create a visually appealing, easy-to-navigate webpage that introduces diversity and inclusion concepts and offers basic guidance on how to implement these practices. 
+Catalyst Inclusion website is a landing page for diversity and inclusion information for researchers and students interested in personnel management. The Catalyst Inclusion website aims to create a visually appealing, easy-to-navigate webpage that introduces diversity and inclusion concepts and offers basic guidance on how to implement these practices. 
 
 ## Features
 1. Home
@@ -11,8 +11,8 @@ The Catalyst Inclusion website is a landing page for diversity and inclusion inf
 5. Contact section
 
 ## How to View the Project
-- [View the deployed website](https://github.com/tendayiht-png/Individual-Full-Stack-Project.git)
+- [View the deployed website]
 
 ## Credits
-- The code for the social media icon animations was taken from [website name](https://www.canva.com/M/MAG9u2IY9fY)
+- The background picture was taken from [website name](https://www.canva.com/M/MAG9u2IY9fY)
 - Thanks to my Code Institute tutors for their patience and support as I built out this project.
