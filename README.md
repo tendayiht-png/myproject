@@ -1,7 +1,7 @@
 #  My Project
 
 ## Description
-Catalyst Inclusion website is a landing page for diversity and inclusion information for researchers and students interested in personnel management. The Catalyst Inclusion website aims to create a visually appealing, easy-to-navigate webpage that introduces diversity and inclusion concepts and offers basic guidance on how to implement these practices. The expected visual result from use of HTML and CSS was that the elements would appear centered with vibrant-colored blocks on the screen. Any text placed inside containers would also be centered horizontally. Content was progressively disclosed to the users as they moved through the navigation menu.
+Catalyst Inclusion website is a landing page for diversity and inclusion information for jobseekers and personnel at Catalyst Induction Group. The Catalyst Inclusion website aims to create a visually appealing, easy-to-navigate webpage that introduces diversity and inclusion concepts and offers basic guidance on how to implement these practices. The expected visual result from use of HTML and CSS was that the elements would appear centered with vibrant-colored blocks on the screen. This visual representation was to motivate website visitors to utilise the information contained therein. Content was progressively disclosed to the users as they moved through the navigation menu.
 
 ## Features
 1. About
