@@ -15,4 +15,4 @@ Catalyst Inclusion website is a landing page for diversity and inclusion informa
 
 ## Credits
 - The background picture was taken from [website name](https://www.canva.com/M/MAG9u2IY9fY)
-- Thank you to my Code Institute tutors for their patience and support as I built out this project.
+- Thank you to mentoring coding tutors for their patience and support as I built out this project.
