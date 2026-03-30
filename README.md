@@ -7,7 +7,7 @@ Catalyst Inclusion website is a landing page for diversity and inclusion informa
 1. About
 2. Central Tenets section
 3. Financial Information section
-4. Sign up form
+4. Sign Up form
 5. Contact section
 
 ## How to View the Project
