@@ -444,3 +444,37 @@ main h1 {
   background-color: #f9f9f9;
 }
 
+.induction-container {
+    padding: 50px 20px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  .security-card {
+    max-width: 650px;
+    margin: 0 auto;
+    background: #f9f9f9;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+    border-top: 5px solid #1a1a1a;
+  }
+
+  .card-body {
+    padding: 40px;
+    text-align: center;
+  }
+
+  .card-title {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #1a1a1a;
+    margin-bottom: 10px;
+    font-size: 24px;
+  }
+
+  .divider {
+    width: 50px;
+    height: 3px;
+    background: #f9f9f9; /* Note: This is the same color as the background, so it might be invisible! */
+    margin: 0 auto 25px auto;
+  }
